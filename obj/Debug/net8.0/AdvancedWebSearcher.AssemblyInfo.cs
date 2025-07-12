@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdvancedWebSearcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0bf33fc3881ed9b82822f33998b17f173a66f81")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdvancedWebSearcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdvancedWebSearcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

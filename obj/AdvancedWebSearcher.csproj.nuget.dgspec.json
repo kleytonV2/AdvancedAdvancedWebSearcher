@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kleyt\\OneDrive\\Documentos\\Projects\\dotnet\\WebSearcher\\AdvancedWebSearcher.csproj": {}
+    "C:\\Users\\kleyt\\OneDrive\\Documentos\\Projects\\dotnet\\AdvancedWebSearcher\\AdvancedWebSearcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kleyt\\OneDrive\\Documentos\\Projects\\dotnet\\WebSearcher\\AdvancedWebSearcher.csproj": {
+    "C:\\Users\\kleyt\\OneDrive\\Documentos\\Projects\\dotnet\\AdvancedWebSearcher\\AdvancedWebSearcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kleyt\\OneDrive\\Documentos\\Projects\\dotnet\\WebSearcher\\AdvancedWebSearcher.csproj",
+        "projectUniqueName": "C:\\Users\\kleyt\\OneDrive\\Documentos\\Projects\\dotnet\\AdvancedWebSearcher\\AdvancedWebSearcher.csproj",
         "projectName": "AdvancedWebSearcher",
-        "projectPath": "C:\\Users\\kleyt\\OneDrive\\Documentos\\Projects\\dotnet\\WebSearcher\\AdvancedWebSearcher.csproj",
+        "projectPath": "C:\\Users\\kleyt\\OneDrive\\Documentos\\Projects\\dotnet\\AdvancedWebSearcher\\AdvancedWebSearcher.csproj",
         "packagesPath": "C:\\Users\\kleyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kleyt\\OneDrive\\Documentos\\Projects\\dotnet\\WebSearcher\\obj\\",
+        "outputPath": "C:\\Users\\kleyt\\OneDrive\\Documentos\\Projects\\dotnet\\AdvancedWebSearcher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
